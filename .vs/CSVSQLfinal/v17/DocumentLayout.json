@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\O Calmo\\source\\repos\\CSVSQLfinal\\CSVSQLfinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74158B31-544B-473B-88FE-A30E3B219C00}|CSVSQLfinal\\CSVSQLfinal.csproj|c:\\users\\o calmo\\source\\repos\\csvsqlfinal\\csvsqlfinal\\csvsqlfinal\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74158B31-544B-473B-88FE-A30E3B219C00}|CSVSQLfinal\\CSVSQLfinal.csproj|solutionrelative:csvsqlfinal\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74158B31-544B-473B-88FE-A30E3B219C00}|CSVSQLfinal\\CSVSQLfinal.csproj|c:\\users\\o calmo\\source\\repos\\csvsqlfinal\\csvsqlfinal\\csvsqlfinal\\fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74158B31-544B-473B-88FE-A30E3B219C00}|CSVSQLfinal\\CSVSQLfinal.csproj|solutionrelative:csvsqlfinal\\fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74158B31-544B-473B-88FE-A30E3B219C00}|CSVSQLfinal\\CSVSQLfinal.csproj|c:\\users\\o calmo\\source\\repos\\csvsqlfinal\\csvsqlfinal\\csvsqlfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74158B31-544B-473B-88FE-A30E3B219C00}|CSVSQLfinal\\CSVSQLfinal.csproj|solutionrelative:csvsqlfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\O Calmo\\source\\repos\\CSVSQLfinal\\CSVSQLfinal\\CSVSQLfinal\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "CSVSQLfinal\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\O Calmo\\source\\repos\\CSVSQLfinal\\CSVSQLfinal\\CSVSQLfinal\\DatabaseHelper.cs",
+              "RelativeToolTip": "CSVSQLfinal\\DatabaseHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T01:01:43.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\O Calmo\\source\\repos\\CSVSQLfinal\\CSVSQLfinal\\CSVSQLfinal\\FileProcessor.cs",
+              "RelativeDocumentMoniker": "CSVSQLfinal\\FileProcessor.cs",
+              "ToolTip": "C:\\Users\\O Calmo\\source\\repos\\CSVSQLfinal\\CSVSQLfinal\\CSVSQLfinal\\FileProcessor.cs",
+              "RelativeToolTip": "CSVSQLfinal\\FileProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T00:59:57.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\O Calmo\\source\\repos\\CSVSQLfinal\\CSVSQLfinal\\CSVSQLfinal\\Program.cs",
+              "RelativeDocumentMoniker": "CSVSQLfinal\\Program.cs",
+              "ToolTip": "C:\\Users\\O Calmo\\source\\repos\\CSVSQLfinal\\CSVSQLfinal\\CSVSQLfinal\\Program.cs",
+              "RelativeToolTip": "CSVSQLfinal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T00:22:16.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
