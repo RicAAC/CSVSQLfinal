@@ -18,6 +18,17 @@ Certifique-se de configurar o seu SQL Server conforme desejado.
 
 ### Passo a Passo
 
-1. **Clone o repositório**: 
+1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/usuario/
+   git clone https://github.com/RicAAC/CSVtoSQL.git
+   cd CSVtoSQL
+2.Abra o projeto:
+
+Abra o Visual Studio.
+Navegue até a pasta do projeto e abra o arquivo de solução (CSVtoSQL.sln).
+Configure a string de conexão:
+
+No arquivo Program.cs, modifique a string de conexão connectionString conforme o seu ambiente SQL Server.
+Compile o projeto:
+
+Pressione F5 para compilar e executar o projeto, ou CTRL + F5 para executar sem depuração.
