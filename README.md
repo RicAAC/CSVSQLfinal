@@ -1,31 +1,31 @@
 # CSVSQL1
 
-Este projeto em C# lê arquivos CSV/TSV de uma pasta específica e insere os dados em tabelas de um banco de dados SQL Server. Ele cria tabelas automaticamente com base nas colunas do arquivo e utiliza `SqlBulkCopy` para uma inserção eficiente.
+This C# project reads CSV/TSV files from a specific folder and inserts the data into tables in a SQL Server database. It automatically creates tables based on the file columns and uses SqlBulkCopy for efficient insertion.
 
-## Tecnologias Utilizadas
+## Technologies Used
 - [.NET 8.0](https://dotnet.microsoft.com/pt-br/download)
 - [SQL Server Management Studio](https://learn.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
 - [Visual Studio](https://visualstudio.microsoft.com/pt-br/)
 
-## Como Executar
+## How to run
 
-### Pré-requisitos
-Antes de executar o projeto, instale as seguintes ferramentas:
+### Prerequisites
+Before running the project, install the following tools:
 - [.NET 8.0](https://dotnet.microsoft.com/pt-br/download/dotnet?cid=getdotnetcorecli)
 - [SQL Server Management Studio](https://learn.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
 
-Certifique-se de configurar o seu SQL Server conforme desejado.
+Ensure your SQL Server is configured as desired.
 
-### Passo a Passo
+### Step-by-step
 
-1. **Clone o repositório**:
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/RicAAC/CSVtoSQL.git
    cd CSVtoSQL
-2. **Abra o projeto**:
-- Abra o Visual Studio.
-- Navegue até a pasta do projeto e abra o arquivo de solução (CSVtoSQL.sln).
-3. **Configure a string de conexão**:
-- No arquivo Program.cs, modifique a string de conexão connectionString conforme o seu ambiente SQL Server.
-4. **Compile o projeto**:
-- Pressione F5 para compilar e executar o projeto, ou CTRL + F5 para executar sem depuração.
+2. **Open the project:**
+- Open Visual Studio.
+- Navigate to the project folder and open the solution file (CSVtoSQL.sln).
+3. **Configure the connection string:**
+- In the Program.cs file, modify the connectionString to match your SQL Server environment.
+4. **Compile the project:**
+- Press F5 to compile and run the project, or CTRL + F5 to run without debugging.
