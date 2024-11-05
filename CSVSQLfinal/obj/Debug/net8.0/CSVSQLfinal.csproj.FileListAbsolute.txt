@@ -20,3 +20,4 @@ C:\Users\O Calmo\source\repos\CSVSQLfinal\CSVSQLfinal\CSVSQLfinal\obj\Debug\net8
 C:\Users\O Calmo\source\repos\CSVSQLfinal\CSVSQLfinal\CSVSQLfinal\obj\Debug\net8.0\CSVSQLfinal.pdb
 C:\Users\O Calmo\source\repos\CSVSQLfinal\CSVSQLfinal\CSVSQLfinal\obj\Debug\net8.0\CSVSQLfinal.genruntimeconfig.cache
 C:\Users\O Calmo\source\repos\CSVSQLfinal\CSVSQLfinal\CSVSQLfinal\obj\Debug\net8.0\ref\CSVSQLfinal.dll
+C:\Users\O Calmo\source\repos\CSVSQLfinal\CSVSQLfinal\CSVSQLfinal\obj\Debug\net8.0\CSVSQLfinal.sourcelink.json

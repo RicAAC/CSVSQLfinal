@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace CSVSQLfinal;
-
+// .
 public class DatabaseHelper //Função: interagir com o banco de dados, centralizar a lógica SQL.
 {
     private readonly string _connectionString;

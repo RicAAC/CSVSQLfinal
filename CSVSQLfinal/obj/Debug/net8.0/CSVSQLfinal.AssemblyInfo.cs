@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSVSQLfinal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c369e72b88678ff0a2c86af199346931317e2a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSVSQLfinal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSVSQLfinal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
